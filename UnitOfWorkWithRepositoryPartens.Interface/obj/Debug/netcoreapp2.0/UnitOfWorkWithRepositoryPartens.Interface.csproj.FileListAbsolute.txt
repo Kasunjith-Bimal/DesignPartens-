@@ -1,0 +1,12 @@
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.deps.json
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.csprojResolveAssemblyReference.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.AssemblyInfo.cs
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.csproj.CopyComplete
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Interface\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb

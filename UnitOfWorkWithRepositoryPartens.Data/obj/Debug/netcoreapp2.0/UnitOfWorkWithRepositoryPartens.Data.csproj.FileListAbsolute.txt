@@ -1,0 +1,10 @@
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.deps.json
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.AssemblyInfo.cs
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+C:\Users\Rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.runtimeconfig.json
+C:\Users\Rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Data\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.runtimeconfig.dev.json

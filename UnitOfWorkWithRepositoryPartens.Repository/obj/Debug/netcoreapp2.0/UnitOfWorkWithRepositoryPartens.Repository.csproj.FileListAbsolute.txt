@@ -1,0 +1,14 @@
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csprojResolveAssemblyReference.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CoreCompileInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfoInputs.cache
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfo.cs
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.deps.json
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CopyComplete
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
