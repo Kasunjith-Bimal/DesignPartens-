@@ -13356,11 +13356,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.csproj",
+      "projectUniqueName": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.csproj",
       "projectName": "UnitOfWorkWithRepositoryPartens",
-      "projectPath": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.csproj",
+      "projectPath": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.csproj",
       "packagesPath": "C:\\Users\\Rika\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens\\obj\\",
+      "outputPath": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
@@ -13381,14 +13381,14 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.BusinessServise\\UnitOfWorkWithRepositoryPartens.BusinessServise.csproj": {
-              "projectPath": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.BusinessServise\\UnitOfWorkWithRepositoryPartens.BusinessServise.csproj"
+            "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.BusinessServise\\UnitOfWorkWithRepositoryPartens.BusinessServise.csproj": {
+              "projectPath": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.BusinessServise\\UnitOfWorkWithRepositoryPartens.BusinessServise.csproj"
             },
-            "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.Interface\\UnitOfWorkWithRepositoryPartens.Interface.csproj": {
-              "projectPath": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.Interface\\UnitOfWorkWithRepositoryPartens.Interface.csproj"
+            "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.Interface\\UnitOfWorkWithRepositoryPartens.Interface.csproj": {
+              "projectPath": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.Interface\\UnitOfWorkWithRepositoryPartens.Interface.csproj"
             },
-            "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.Repository\\UnitOfWorkWithRepositoryPartens.Repository.csproj": {
-              "projectPath": "C:\\Users\\Rika\\source\\repos\\UnitOfWorkWithRepositoryPartens\\UnitOfWorkWithRepositoryPartens.Repository\\UnitOfWorkWithRepositoryPartens.Repository.csproj"
+            "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.Repository\\UnitOfWorkWithRepositoryPartens.Repository.csproj": {
+              "projectPath": "C:\\Users\\Rika\\Desktop\\New folder (3)\\DesignPartens-\\UnitOfWorkWithRepositoryPartens.Repository\\UnitOfWorkWithRepositoryPartens.Repository.csproj"
             }
           }
         }

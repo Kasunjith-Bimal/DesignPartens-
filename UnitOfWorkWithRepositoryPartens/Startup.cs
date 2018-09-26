@@ -36,10 +36,8 @@ namespace UnitOfWorkWithRepositoryPartens
             services.AddSingleton<IUnitOfWork, UnitOfWork>();
             services.AddSingleton<IDisposable, UnitOfWork>();
             services.AddSingleton<ITestServise, TestServise>();
-            services.AddSingleton<IRepository<Test>, TestRepository>();
-            services.AddSingleton<IRepository<Test>, GenericRepository<Test>>();
-            services.AddSingleton<IRepository<Test>>(x => x.GetService<ITestRepository>());
-            //services.AddSingleton<ITestRepositor>();
+            services.AddSingleton<ITestRepository, TestRepository>();
+            services.AddSingleton(typeof(IRepository<>), typeof(GenericRepository<>));
 
 
             //services.AddSingleton<IRepository<Test>>(x => x.GetService<ITestRepository>());

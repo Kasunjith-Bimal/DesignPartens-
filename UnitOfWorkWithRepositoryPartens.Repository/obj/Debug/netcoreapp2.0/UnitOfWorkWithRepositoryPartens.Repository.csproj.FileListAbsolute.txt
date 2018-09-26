@@ -12,3 +12,45 @@ c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithReposit
 c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CopyComplete
 c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
 c:\users\rika\source\repos\UnitOfWorkWithRepositoryPartens\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.deps.json
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csprojAssemblyReference.cache
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CoreCompileInputs.cache
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfoInputs.cache
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfo.cs
+C:\Users\chathuranga\Source\Repos\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CopyComplete
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.deps.json
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfoInputs.cache
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfo.cs
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CopyComplete
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\Rika\Desktop\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.deps.json
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.dll
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.dll
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Data.pdb
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\bin\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Interface.pdb
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csprojResolveAssemblyReference.cache
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfoInputs.cache
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.AssemblyInfo.cs
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.csproj.CopyComplete
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.dll
+C:\Users\Rika\Desktop\New folder (3)\DesignPartens-\UnitOfWorkWithRepositoryPartens.Repository\obj\Debug\netcoreapp2.0\UnitOfWorkWithRepositoryPartens.Repository.pdb

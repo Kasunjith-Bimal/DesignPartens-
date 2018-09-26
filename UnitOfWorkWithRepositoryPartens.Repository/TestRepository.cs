@@ -7,7 +7,7 @@ using UnitOfWorkWithRepositoryPartens.Repository.Base;
 
 namespace UnitOfWorkWithRepositoryPartens.Repository
 {
-    public class TestRepository : GenericRepository<Test>, IRepository<Test>
+    public class TestRepository : GenericRepository<Test>, ITestRepository
     {
         public TestRepository(IUnitOfWork unitOfWork) : base(unitOfWork)
         {
