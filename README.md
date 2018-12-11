@@ -1,4 +1,4 @@
-# DesignPartens-
+# DesignPartens
 
 Asp .net Core 2.0
 ### Create Database using Sql Server 
